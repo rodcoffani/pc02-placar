@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PC02-Placar</string>
+    <string name="freeThrow">Free Throw (+1)</string>
+    <string name="twoPoints">Two Points (+2)</string>
+    <string name="threePoints">Three Points (+3)</string>
+    <string name="lastPoint">Undo Last Point</string>
+    <string name="team1">Home</string>
+    <string name="team2">Visitor</string>
+</resources>

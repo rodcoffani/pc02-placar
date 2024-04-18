@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PC02-Placar</string>
+    <string name="freeThrow">Lance Livre (+1)</string>
+    <string name="twoPoints">Dois Pontos (+2)</string>
+    <string name="threePoints">Três Pontos (+3)</string>
+    <string name="lastPoint">Voltar Último Ponto</string>
+    <string name="team1">Casa</string>
+    <string name="team2">Visitante</string>
+</resources>
